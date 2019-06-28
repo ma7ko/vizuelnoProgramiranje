@@ -1,0 +1,10 @@
+C:\Users\Dell\source\repos\ProektnaZadacha1\ProektnaZadacha1\bin\Debug\ProektnaZadacha1.exe.config
+C:\Users\Dell\source\repos\ProektnaZadacha1\ProektnaZadacha1\bin\Debug\ProektnaZadacha1.exe
+C:\Users\Dell\source\repos\ProektnaZadacha1\ProektnaZadacha1\bin\Debug\ProektnaZadacha1.pdb
+C:\Users\Dell\source\repos\ProektnaZadacha1\ProektnaZadacha1\obj\Debug\ProektnaZadacha1.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\ProektnaZadacha1\ProektnaZadacha1\obj\Debug\ProektnaZadacha1.Form1.resources
+C:\Users\Dell\source\repos\ProektnaZadacha1\ProektnaZadacha1\obj\Debug\ProektnaZadacha1.Properties.Resources.resources
+C:\Users\Dell\source\repos\ProektnaZadacha1\ProektnaZadacha1\obj\Debug\ProektnaZadacha1.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\ProektnaZadacha1\ProektnaZadacha1\obj\Debug\ProektnaZadacha1.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\ProektnaZadacha1\ProektnaZadacha1\obj\Debug\ProektnaZadacha1.exe
+C:\Users\Dell\source\repos\ProektnaZadacha1\ProektnaZadacha1\obj\Debug\ProektnaZadacha1.pdb
